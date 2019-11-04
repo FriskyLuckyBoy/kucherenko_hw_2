@@ -506,3 +506,40 @@
 
 /*Block 6*/
 
+.field3{
+	width: 100%;
+	background: url("../img/footer.jpg") center no-repeat;
+	background-size: cover;
+	height: auto;
+}
+
+.flex{
+	text-align: center;
+	font-size: 50px;
+	font-weight: 300;
+	color: #fff;
+}
+
+.footer{
+	padding: 100px 0;
+	display: flex;
+	justify-content: space-between;
+	
+}
+.foot{
+	
+	background-color: #fff;
+	width: 205px;
+	height: 56px;
+	border-radius: 30px;
+	text-transform: uppercase;
+	font-size: 16px;
+	font-weight: 700;
+	color: #3695ff;
+	text-decoration: none;
+	outline: none;
+}
+
+.foot:hover{
+	color: #6d98fb;
+}
