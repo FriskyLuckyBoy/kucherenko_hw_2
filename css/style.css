@@ -220,12 +220,11 @@
 	  margin: auto;
 	  margin-top: 115px;
 	  background-position: center;
-	  box-shadow: 0px 0px 10px 5px rgb(88, 156, 254);
 	  transition: 0.4s linear;
 	}
 
 	.avatar:hover {
-	 box-shadow: 0px 0px 20px 10px rgb(53, 128, 237);
+	box-shadow: 0 0 0 7px rgba(255, 255, 255, 0.09), 0 0 0 17px rgba(255, 255, 255, 0.06);
 	}
 
 /*Text title*/
